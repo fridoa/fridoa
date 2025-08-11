@@ -11,6 +11,8 @@
 ## Languages
 <p>
 
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="35" />
+
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="35" />
 
 <img src="https://img.shields.io/badge/Php-282C34?logo=Php&logoColor=777BB4" alt="Php logo" title="Php" height="35" />
