@@ -32,6 +32,10 @@
 
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="35" />
 
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express logo" title="Express" height="35" />
+
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="35" />
+
 </p>
 
 ## Development Tools
