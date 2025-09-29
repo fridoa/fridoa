@@ -1,69 +1,78 @@
-<h3 align="center"><img src='https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-thumbs-up-gif.gif' height="30px"> Hi there! I'm Frido Afriyanto</h3>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-thumbs-up-gif.gif" height="30px" />  
+  Hi there! I'm <b>Frido Afriyanto</b> 👨‍💻  
+</h2>
 
-
-# About Me
-- 🎓 Software Engineering student at Telkom University Purwokerto
-- 💻 Currently focusing on Front-End Development
-- 💬 Enjoy discussing anything about technology, especially mobile development and web development
-- 📌 Sharing my journey and projects on LinkedIn – check above
-
-
-## Languages
-<p>
-
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="35" />
-
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="35" />
-
-<img src="https://img.shields.io/badge/Php-282C34?logo=Php&logoColor=777BB4" alt="Php logo" title="Php" height="35" />
-
-<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=ED8B00" alt="Java logo" title="Java" height="35" />
-
-<img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="35" />
-
+<p align="center">
+  🎓 Software Engineering Student @ Telkom University Purwokerto <br>
+  💻 Passionate about Front-End & Mobile Development <br>
 </p>
 
-## Framework
+---
+
+## 🚀 About Me
+- 📚 Currently diving deep into **React** & **Flutter**
+- 💬 Love discussing about **Web & Mobile Development**
+- 🎯 Goal: Becoming a **Fullstack Developer** with strong Front-End foundation
+- ✨ Open to collaboration on exciting projects
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💡 Languages
 <p>
-
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=43853D" alt="Node.js logo" title="Node.js" height="35" />
-
-<img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="35" />
-
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=Flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="35" />
-
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express logo" title="Express" height="35" />
-
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="35" />
-
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="30"/>
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="30"/>
+<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="30"/>
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ED8B00" height="30"/>
+<img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" height="30"/>
 </p>
 
-## Development Tools
+### ⚙️ Frameworks & Libraries
 <p>
-
-<img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F34E68" alt="Git logo" title="Git" height="35" />
-
-<img src="https://img.shields.io/badge/Github-282C34?logo=Github&logoColor=white" alt="Github logo" title="Github" height="35" />
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-282C34?logo=visual%20studio%20code&logoColor=0078D4" alt="Visual_Studio_Code logo" title="Visual_Studio_Code" height="35" />
-
-<img src="https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="35" />
-
-<img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="35" />
-
-<img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=F24E1E" alt="Postman logo" title="Postman" height="35" />
-
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=43853D" height="30"/>
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30"/>
+<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" height="30"/>
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30"/>
 </p>
 
-## Operation System
-
+### 🧰 Tools
 <p>
-
-<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="35" />
-
-
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F34E68" height="30"/>
+<img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/VS Code-282C34?logo=visual-studio-code&logoColor=0078D4" height="30"/>
+<img src="https://img.shields.io/badge/Android Studio-282C34?logo=android-studio&logoColor=3DDC84" height="30"/>
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="30"/>
+<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="30"/>
 </p>
 
+### 🖥️ Operating System
+<p>
+<img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" height="30"/>
+</p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fridoa&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fridoa&theme=github_dark" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fridoa&theme=react-dark" height="250"/>
+</p>
+
+---
+
+## 🌐 Let's Connect!
+<p align="center">
+  <a href="mailto:fridoafriyanto3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://fridoa.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?logo=githubpages&logoColor=white" height="30"/>
+  </a>
+</p>
