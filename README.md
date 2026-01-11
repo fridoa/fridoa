@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 📚 Currently diving deep into **React** & **Flutter**
+- 📚 Currently diving deep into **React Ecosystem**
 - 💬 Love discussing about **Web & Mobile Development**
 - 🎯 Goal: Becoming a **Fullstack Developer** with strong Front-End foundation
 - ✨ Open to collaboration on exciting projects
